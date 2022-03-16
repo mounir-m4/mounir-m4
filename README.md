@@ -7,7 +7,7 @@ Junior Front-end  Developer </h2>
   <h3>About me</h3>
 
 - I love creating new websites
-- I’m currently learning JavaScript
+- I’m currently learning Reactjs
 - My main focus is to be fullstack javascript developer
 - I'm willing to learn the MERN stack soon !
 
