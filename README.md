@@ -8,8 +8,8 @@ Junior Front-end  Developer </h2>
 
 - I love creating new websites
 - I’m currently learning Reactjs
-- My main focus is to be fullstack javascript developer
-- I'm willing to learn the MERN stack soon !
+- My main focus is to be fullstack developer
+- I'm currently learning React js / laravel
 
 <h3>Technologies:</h3>
 <p>
