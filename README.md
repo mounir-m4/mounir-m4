@@ -2,12 +2,11 @@
  Hi, I’m Mounir</h1>
 <h2 align="center">
 <img align="center" src="icons/programming-monitor-svgrepo-com.svg" height="90" width="90"/><br>
-Junior Front-end  Developer </h2>
+Junior Web Developer </h2>
 
   <h3>About me</h3>
 
-- I love creating new websites
-- I’m currently learning Reactjs
+- Obsessed with creating new websites
 - My main focus is to be fullstack developer
 - I'm currently learning React js / laravel
 
