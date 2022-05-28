@@ -1,7 +1,7 @@
 <h1 align="center">
  Hi, I’m Mounir</h1>
 <h2 align="center">
-Junior Web Developer </h2>
+a Web Developer </h2>
 
   <h3>About me</h3>
 
