@@ -1,7 +1,6 @@
 <h1 align="center">
  Hi, I’m Mounir</h1>
-<h2 align="center">
-a Web Developer </h2>
+ <p align="center">Another web developer</p>
 
   <h3>About me</h3>
 
