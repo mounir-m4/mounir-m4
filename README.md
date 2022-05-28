@@ -1,7 +1,6 @@
 <h1 align="center">
  Hi, I’m Mounir</h1>
 <h2 align="center">
-<img align="center" src="icons/programming-monitor-svgrepo-com.svg" height="90" width="90"/><br>
 Junior Web Developer </h2>
 
   <h3>About me</h3>
