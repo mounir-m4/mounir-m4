@@ -6,7 +6,7 @@
 
 - Passionate about creating new websites
 - My main focus is to be fullstack developer
-- I'm currently learning React js alongside laravel
+- 🌱 I’m currently learning Node with React js 
 
 <h2>Technologies:</h2>
 <h3>Frontend:</h3>
@@ -23,7 +23,6 @@
 <h3>Backend:</h3>
 <p>
 <img src="./icons/php.svg" alt="php" width="60" height="60" style="margin-right:.5rem"/>
-<img src="./icons/laravel-logo.svg" alt="laravel" width="60" height="60" style="margin-right:.5rem"/>
 <img src="./icons/asp-logo.png" alt="asp.net" width="60" height="60" style="margin-right:.5rem"/>
 </p>
 <h3>Databases:</h3>
