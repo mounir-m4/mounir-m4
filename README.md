@@ -1,6 +1,6 @@
 <h1 align="center">
  Hi, I’m Mounir</h1>
- <p align="center">Another web developer</p>
+ <p align="center">Web developer</p>
 
   <h2>About me</h2>
 
@@ -8,8 +8,7 @@
 - My main focus is to be fullstack developer
 - 🌱 I’m currently learning Node with React js 
 
-<h2>Technologies:</h2>
-<h3>Frontend:</h3>
+<h2>Technologies & Tools:</h2>
 
 <p>
 <img src="./icons/html-5-svgrepo-com.svg" alt="html" width="60" height="60" style="margin-right:.5rem"/>
@@ -18,31 +17,26 @@
 <img src="./icons/sass-svgrepo-com.svg" alt="sass" width="60" height="60" style="margin-right:.5rem"/>
 <img src="./icons/bootstrap-svgrepo-com.svg" alt="bootstrap" width="60" height="60" style="margin-right:.5rem"/>
 <img src="./icons/reactjs.svg" alt="react js" width="60" height="60" style="margin-right:.5rem"/>
-<img src="./icons/react-redux.svg" alt="redux" width="60" height="60" style="margin-right:.5rem"/>
 </p>
-<h3>Backend:</h3>
 <p>
 <img src="./icons/php.svg" alt="php" width="60" height="60" style="margin-right:.5rem"/>
 <img src="./icons/asp-logo.png" alt="asp.net" width="60" height="60" style="margin-right:.5rem"/>
 </p>
-<h3>Databases:</h3>
 <p>
 <img src="./icons/mysql-logo.svg" alt="mysql" width="60" height="60" style="margin-right:.5rem"/>
 <img src="./icons/microsoft-sql-server-logo.svg" alt="sql server" width="60" height="60" style="margin-right:.5rem"/>
 <img src="./icons/mongodb.svg" alt="mongodb" width="60" height="60" style="margin-right:.5rem"/>
 <p>
-<h3>Tools:</h3>
-<p>
+
+<p> 
 <img src="./icons/vscode-svgrepo-com.svg" alt="vscode" width="60" height="60" style="margin-right:.5rem"/>
 <img src="./icons/visual-studio-logo.svg" alt="vscode" width="60" height="60" style="margin-right:.5rem"/>
 <img src="./icons/terminal-svgrepo-com.svg" alt="terminal" width="60" height="60" style="margin-right:.5rem"/>
 <img src="./icons/git-svgrepo-com.svg" alt="gitbash" width="60" height="60" style="margin-right:.5rem"/>
 <img src="./icons/npm-logo.svg" alt="npm" width="60" height="60" style="margin-right:.5rem"/>
-
-<h3>CMS:</h3>
-<p>
 <img src="./icons/wordpress-logo.svg" alt="npm" width="60" height="60" style="margin-right:.5rem"/>
 </p>
+
 
 <h3>Stay In Touch 👋</h3>
 <p>
