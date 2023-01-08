@@ -19,14 +19,12 @@
 <img src="./icons/reactjs.svg" alt="react js" width="60" height="60" style="margin-right:.5rem"/>
 </p>
 <p>
-<img src="./icons/php.svg" alt="php" width="60" height="60" style="margin-right:.5rem"/>
-<img src="./icons/asp-logo.png" alt="asp.net" width="60" height="60" style="margin-right:.5rem"/>
+ <img src="./icons/php.svg" alt="php" width="60" height="60" style="margin-right:.5rem"/>
+ <img src="./icons/asp-logo.png" alt="asp.net" width="60" height="60" style="margin-right:.5rem"/>
+ <img src="./icons/mysql-logo.svg" alt="mysql" width="60" height="60" style="margin-right:.5rem"/>
+ <img src="./icons/microsoft-sql-server-logo.svg" alt="sql server" width="60" height="60" style="margin-right:.5rem"/>
+ <img src="./icons/mongodb.svg" alt="mongodb" width="60" height="60" style="margin-right:.5rem"/>
 </p>
-<p>
-<img src="./icons/mysql-logo.svg" alt="mysql" width="60" height="60" style="margin-right:.5rem"/>
-<img src="./icons/microsoft-sql-server-logo.svg" alt="sql server" width="60" height="60" style="margin-right:.5rem"/>
-<img src="./icons/mongodb.svg" alt="mongodb" width="60" height="60" style="margin-right:.5rem"/>
-<p>
 
 <p> 
 <img src="./icons/vscode-svgrepo-com.svg" alt="vscode" width="60" height="60" style="margin-right:.5rem"/>
